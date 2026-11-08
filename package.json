@@ -1,0 +1,13 @@
+{
+  "name": "groww-anchor-mvp",
+  "version": "1.0.0",
+  "description": "Groww Anchor MVP — Cognitive Milestone Statements & Behavioral Mirror for Retail SIP Retention",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
